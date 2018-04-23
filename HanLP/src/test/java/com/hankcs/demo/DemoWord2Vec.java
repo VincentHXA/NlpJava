@@ -25,8 +25,10 @@ import java.util.Map;
  */
 public class DemoWord2Vec
 {
-    private static final String TRAIN_FILE_NAME = "data/test/搜狗文本分类语料库已分词.txt";
-    private static final String MODEL_FILE_NAME = "data/test/word2vec.txt";
+//    private static final String TRAIN_FILE_NAME = "data/test/搜狗文本分类语料库已分词.txt";
+    private static final String TRAIN_FILE_NAME = "D:\\IDEA\\IdeaProj\\NlpJava\\HanLP\\data\\test\\搜狗文本分类语料库已分词.txt";
+//    private static final String MODEL_FILE_NAME = "data/test/word2vec.txt";
+    private static final String MODEL_FILE_NAME = "D:\\IDEA\\IdeaProj\\NlpJava\\HanLP\\data\\test\\word2vec.txt";
 
     public static void main(String[] args) throws IOException
     {
